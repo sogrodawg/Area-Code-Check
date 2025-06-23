@@ -1,0 +1,4 @@
+name = "curly-thunder-c14c"
+main = "areaCode.js"
+compatibility_date = "2025-06-23"
+workers_dev = true
